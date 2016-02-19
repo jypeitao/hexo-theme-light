@@ -25,6 +25,7 @@ addthis:
 fancybox: true
 
 google_analytics:
+favicon: imgs/favicon.png
 rss:
 
 comment_provider: facebook
